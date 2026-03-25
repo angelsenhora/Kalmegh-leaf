@@ -1,0 +1,7 @@
+{
+  "name": "Kalmegh Leaf Disease Detector",
+  "description": "Machine learning-based detection of leaf diseases in Andrographis paniculata (Kalmegh).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
